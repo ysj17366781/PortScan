@@ -1,0 +1,11 @@
+<RCC>
+    <qresource>
+      <file>images/offline_icon.png</file>
+      <file>images/online_icon.png</file>
+      <file>images/loading.gif</file>
+      <file>images/a.png</file>
+      <file>images/nport_failed.png</file>
+      <file>images/nport_pass.png</file>
+      <file>images/nport_normal.png</file>
+    </qresource>
+</RCC>
